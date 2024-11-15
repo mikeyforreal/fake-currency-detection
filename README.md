@@ -1,13 +1,12 @@
 # Real-Time Image Classification with Keras and OpenCV
 
-This project is a simple Python script that captures live video from your webcam, processes the frames, and classifies them using a pre-trained Keras model. The classified image and the confidence score are displayed in real-time.
+This project uses a pre-trained Keras model to detect fake currency in real-time using a webcam. The system captures images of currency notes, processes them, and classifies them as either genuine or fake based on a model trained with fake and real currency images.
 
 ## Features
-- **Real-time webcam feed capture**
-- **Image preprocessing and normalization**
-- **Integration with a pre-trained Keras model for classification**
-- **Overlay of classification results and confidence score on each frame**
-- **User-friendly exit mechanism**
+
+- Real-time detection of fake currency through webcam input.
+- Displays the classification result (real or fake) along with the confidence score.
+- Simple and intuitive interface.
 
 ## Prerequisites
 Ensure the following Python packages are installed:
