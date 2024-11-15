@@ -24,15 +24,15 @@ pip install keras opencv-python numpy
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/mikeyforreal/fake-currency-detection
    ```
 2. Navigate to the project directory:
    ```bash
-   cd <repository-directory>
+   cd fake-currency-detection
    ```
 3. Run the script:
    ```bash
-   python real_time_classifier.py
+   python fake-currency-detection.py
    ```
 
 ## How It Works
