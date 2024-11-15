@@ -1,4 +1,4 @@
-# Real-Time Image Classification with Keras and OpenCV
+#Fake Currency Detection Using Webcam 
 
 This project uses a pre-trained Keras model to detect fake currency in real-time using a webcam. The system captures images of currency notes, processes them, and classifies them as either genuine or fake based on a model trained with fake and real currency images.
 
